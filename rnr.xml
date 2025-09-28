@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>The Revered and the Ridiculous</title>
+    <link>https://www.yourwebsite.com/podcast</link>
+    <language>en-us</language>
+<!--     <copyright>© 2025 Your Name or Company</copyright>
+ -->    <itunes:author>Kelvin Walls</itunes:author>
+    <itunes:summary>Interviews with eccentric composers.</itunes:summary>
+    <description>Listen to us interview eccentric composers.</description>
+    <itunes:owner>
+      <itunes:name>Kelvin Walls</itunes:name>
+      <itunes:email>cliffent@yahoo.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/IIVIIIII/pod4web/blob/main/RnRart.jpg" />
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Episode 1 -->
+    <item>
+      <title>Episode 1: A Conversation With Hieronymus-Vladislav von Petrovich al-Khazzanovich III</title>
+      <itunes:author></itunes:author>
+      <itunes:subtitle>Episode 1</itunes:subtitle>
+      <itunes:summary>We speak with eccentric composer Hieronymus-Vladislav von Petrovich al-Khazzanovich III about his newest piece, which premiered at The Grand Lyric Hall this year.</itunes:summary>
+      <enclosure url="https://github.com/IIVIIIII/pod4web/blob/main/RnRep1.mp3" length="3965304 " type="audio/mpeg" />
+      <guid>https://github.com/IIVIIIII/pod4web/blob/main/RnRep1.mp3</guid>
+      <pubDate>Sun, 228 Sep 2025 07:00:00 GMT</pubDate>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- Add more <item> blocks for more episodes -->
+
+  </channel>
+</rss>
